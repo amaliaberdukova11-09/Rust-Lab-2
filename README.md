@@ -360,6 +360,7 @@ fn task7() {
     println!("Sum of pair = {}", p.sum());
 }
 ### Результаты работы программы
+https://github.com/amaliaberdukova11-09/Rust-Lab-2/blob/main/task1%20(1).png 
 
-Информация о студенте
+### Информация о студенте
 Бердукова Амалия, 1 курс, группа 1об_ПОО/25
